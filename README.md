@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi Pepple Divine GOrdon Bryson. 
 
-<!--
-**divine4lifeabc/divine4lifeabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me 
+1 am a Cybersecurity student at NIT Port Harcourt, passionate about offensive and defensive cybersecurity. I enjoy buildibg practical cybersecurity projects that demostrate real world skills in:
+- Penetration testing
+- Log Analysis
+- Malware Analysis
+- Digital forensics
+- OSINT
+- Threat hunting
+- Social Engineering
+- Vulnerability Assessment
+- Soc Analysis
 
-Here are some ideas to get you started:
+## Projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|project | Drescription | Respository | 
+| ------ | ------------ | ----------- |
+| Penetration Testing | | | 
+| Log Analysis | Analysed IIS and windows event logo to indentify attacks  | | 
+Digital Forensics | | | 
+Malware Annalysis | | |
+OSINT investigation | conducted an OSINT on a target organization | coming soon 
+| Threat Hunting | | |
+| Social Engineering | | |
+| Vulnerability Assesmrnt | | |
+| SOC Analysis | | | 
+
+#Skills
+
+###Operating Systems 
+
+- Windows
+- linux
+
+  ### Networking
+
+  - TCP/IP
+  - DNS
+  - HTTP
+  - FTP
+  - SSH
+ 
+    ### Cybersecurity Tools
+
+    - Nmap
+    - Wireshark
+    - Burp Suite
+    - Splunk
+    - Metasploi
+    - Git
+    - GitHub
+
+     ## Certifications
+
+    - ISC2 CC
+    - CompTIA Security + ( In Progress )
+
+    ##Education
+    - NIT Port Harcourt Cybersecurity Program
+    - University of Education: English and Communication arts.
+
+    ## Contact
+
+   - Email: divinepepple25@gmail.com
+   - Linkedln https//linkedin.com/in/Pepple Divine Gordon Bryson.
+    
+
+    
+
+
