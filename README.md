@@ -18,7 +18,7 @@
 | ------ | ------------ | ----------- |
 | Penetration Testing | | | 
 | Log Analysis | Analysed IIS and windows event logo to indentify attacks  | https://github.com/divine4lifeabc/Log-analysis- |
-Digital Forensics | | | 
+Digital Forensics | A digital forensic project demostrating evidence acquisition,preservation and analysis. |
 Malware Annalysis | A practical maleare analysis project demostrating static and dynamic analysis techniques | https://github.com/divine4lifeabc/malware-analysis- | 
 OSINT investigation | conducted an OSINT on a target organization | https://github.com/divine4lifeabc/OSINT-Project-
 | Threat Hunting | | |
