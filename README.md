@@ -20,7 +20,7 @@
 | Log Analysis | Analysed IIS and windows event logo to indentify attacks  | | 
 Digital Forensics | | | 
 Malware Annalysis | | |
-OSINT investigation | conducted an OSINT on a target organization | coming soon 
+OSINT investigation | conducted an OSINT on a target organization | https://github.com/divine4lifeabc/OSINT-Project-
 | Threat Hunting | | |
 | Social Engineering | | |
 | Vulnerability Assesmrnt | | |
